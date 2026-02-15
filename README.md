@@ -574,7 +574,6 @@ Official curated skills from OpenAI's skills repository.
 
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** - 23+ marketing skills for SEO, copywriting, email, and ads
 - **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
-- **[blader/humanizer](https://github.com/blader/humanizer)** - Remove AI writing patterns to make text sound more natural and human-written. Supports SKILL.md and SKILL_PROFESSIONAL.md variants and adapter formats for multiple agent targets. Includes CI validation examples for Skillshare and AIX.
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 

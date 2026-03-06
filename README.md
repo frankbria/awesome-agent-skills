@@ -22,7 +22,7 @@
 </a>
 
 [![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-![Skills Count](https://img.shields.io/badge/Skills-554+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-549+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -57,19 +57,18 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 
 | | | |
 |---|---|---|
-| [Official Claude Skills](#official-claude-skills) | [Skills by VoltAgent](#skills-by-voltagent) | [Skills by Vercel](#skills-by-vercel-engineering-team) | [Skills by Cloudflare](#skills-by-cloudflare-team) |
-| [Skills by Composio](#skills-by-composio) |
-| [Skills by Netlify](#skills-by-netlify-team) | [Skills by Supabase](#skills-by-supabase-team) | [Skills by Google Gemini](#skills-by-google-gemini) |
-| [Skills by Google Labs (Stitch)](#skills-by-google-labs-stitch) | [Skills by Google Workspace CLI](#skills-by-google-workspace-cli) | [Skills by Hugging Face](#skills-by-hugging-face-team) |
-| [Skills by Stripe](#skills-by-stripe-team) |
-| [Skills by CallStack](#skills-by-callstack) | [Skills by Trail of Bits](#security-skills-by-trail-of-bits-team) | [Skills by Expo](#skills-by-expo-team) |
-| [Skills by Sentry](#skills-by-sentry-team-for-their-dev-team) | [Skills by Better Auth](#skills-by-better-auth-team) | [Skills by Tinybird](#skills-by-tinybird-team) |
-| [Skills by Microsoft](#skills-by-microsoft) | [Skills by Neon](#skills-by-neon-team) | [Skills by Cloudflare Engineer](#skill-by-cloudflare-engineer) |
-| [Skills by ClickHouse](#skill-by-clickhouse) | [Skills by fal.ai](#skills-by-falai-team) | [Skills by HashiCorp](#skills-by-hashicorp-team-for-terraform) |
-| [Skills by Sanity](#skills-by-sanity-team) | [Skills by Remotion](#skills-by-remotion-team) | [Skills by WordPress](#skills-by-wordpress-development-team) |
-| [Skills by Transloadit](#skills-by-transloadit-team) | [Skills by Firecrawl](#skills-by-firecrawl-team) | [Skills by OpenAI](#skills-by-openai) |
-| [Skills by Replicate](#skills-by-replicate) | [Skills by Typefully](#skills-by-typefully) | [Skills by Binance](#skills-by-binance) |
-| [Marketing Skills by Corey Haines](#marketing-skills-by-corey-haines) | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Community Skills](#community-skills) |
+| [Official Claude Skills](#official-claude-skills) | [Skills by VoltAgent](#skills-by-voltagent) | [Skills by Composio](#skills-by-composio-team) |
+| [Skills by Supabase](#skills-by-supabase-team) | [Skills by Google Gemini](#skills-by-google-gemini) | [Skills by Stripe](#skills-by-stripe-team) |
+| [Skills by CallStack](#skills-by-callstack) | [Skills by Expo](#skills-by-expo-team) | [Skills by Better Auth](#skills-by-better-auth-team) |
+| [Skills by Tinybird](#skills-by-tinybird-team) | [Skills by HashiCorp](#skills-by-hashicorp-team-for-terraform) | [Skills by Sanity](#skills-by-sanity-team) |
+| [Skills by Firecrawl](#skills-by-firecrawl-team) | [Skills by Neon](#skills-by-neon-team) | [Skills by Cloudflare Engineer](#skills-by-cloudflare-engineer) |
+| [Skill by ClickHouse](#skill-by-clickhouse) | [Skills by Remotion](#skills-by-remotion) | [Skills by Replicate](#skills-by-replicate) |
+| [Skills by Typefully](#skills-by-typefully) | [Skills by Vercel](#skills-by-vercel-engineering-team) | [Skills by Cloudflare](#skills-by-cloudflare-team) |
+| [Skills by Netlify](#skills-by-netlify-team) | [Skills by Google Labs (Stitch)](#skills-by-google-labs-stitch) | [Skills by Google Workspace CLI](#skills-by-google-workspace-cli) |
+| [Skills by Hugging Face](#skills-by-hugging-face-team) | [Skills by Trail of Bits](#security-skills-by-trail-of-bits-team) | [Skills by Sentry](#skills-by-sentry-team-for-their-dev-team) |
+| [Skills by Microsoft](#skills-by-microsoft) | [Skills by fal.ai](#skills-by-falai-team) | [Skills by WordPress](#skills-by-wordpress-development-team) |
+| [Skills by Transloadit](#skills-by-transloadit-team) | [Skills by OpenAI](#skills-by-openai) | [Marketing Skills by Corey Haines](#marketing-skills-by-corey-haines) |
+| [Skills by Binance](#skills-by-binance) | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Community Skills](#community-skills) |
 | [Skill Quality Standards](#skill-quality-standards) | | |
 
 
@@ -692,8 +691,6 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
 - **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - Universal SEO skill for comprehensive website analysis and optimization
-- **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
-- **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
 - **[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)** - AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Cannes/D&AD/HumanKind, 5-phase process from brief to presentation
@@ -719,8 +716,6 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[obra/dispatching-parallel-agents](https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md)** - Coordinate multiple simultaneous agents
 - **[obra/sharing-skills](https://github.com/obra/superpowers/blob/main/skills/sharing-skills/SKILL.md)** - Distribute and communicate capabilities
 - **[obra/using-superpowers](https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md)** - Leverage core platform capabilities
-- **[ComposioHQ/meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer)** - Analyze meeting communication patterns
-- **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
 - **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** - YouTube clip generation and editing with automated workflows
 - **[ognjengt/founder-skills](https://github.com/ognjengt/founder-skills)** - Claude skills for founders with packaged startup workflows
 - **[EveryInc/charlie-cfo-skill](https://github.com/EveryInc/charlie-cfo-skill)** - Bootstrapped CFO financial management inspired by Charlie Munger
@@ -753,7 +748,6 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills)** - 300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps
 - **[scarletkc/vexor](https://github.com/scarletkc/vexor)** - Vector-powered CLI for semantic file search with a Claude/Codex skill
 - **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)** - Write tests before implementing code
-- **[ComposioHQ/changelog-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator)** - Transform git commits into release notes
 - **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md)** - Development using multiple sub-agents
 - **[obra/systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md)** - Methodical problem-solving in code
 - **[obra/root-cause-tracing](https://github.com/obra/superpowers/blob/main/skills/root-cause-tracing/SKILL.md)** - Investigate and identify fundamental problems
